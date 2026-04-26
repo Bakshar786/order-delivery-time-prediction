@@ -77,5 +77,6 @@ This project focuses on predicting order delivery time using machine learning te
 2. Open the notebook in Google Colab  
 3. Run all cells  
 4. View predictions and results
-
+# Notebook
+[Open Notebook](./delivery_prediction.ipynb)
 # This project demonstrates how machine learning can improve delivery efficiency and reduce prediction errors in real-world logistics systems.
