@@ -69,4 +69,13 @@ This project focuses on predicting order delivery time using machine learning te
  # Project Report
 
  # view Full Report -
-  [Order Delivery Prediction Project (1).docx](https://github.com/user-attachments/files/27101005/Order.Delivery.Prediction.Project.1.docx)
+  [Order Delivery Prediction Project (1).docx](https://github.com/user-
+  attachments/files/27101005/Order.Delivery.Prediction.Project.1.docx)
+  
+# How to Run
+1. Download the dataset  
+2. Open the notebook in Google Colab  
+3. Run all cells  
+4. View predictions and results
+
+# This project demonstrates how machine learning can improve delivery efficiency and reduce prediction errors in real-world logistics systems.
